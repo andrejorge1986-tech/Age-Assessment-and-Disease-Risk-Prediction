@@ -3,9 +3,6 @@
 
 ## 📊 RELATÓRIO TÉCNICO — *Avaliação da Idade e Previsão de Risco de Doença*
 
-```markdown
-# 🧪 Relatório Técnico
-## Avaliação da Idade e Previsão de Risco de Doença
 
 ### 1. Introdução
 
@@ -89,5 +86,6 @@ O pipeline desenvolvido permite:
 📘 **Disciplina:** Programação Avançada com Python (10794)  
 🏫 **Instituição:** Cinel 
 📅 **Ano:** 2025
+
 
 
