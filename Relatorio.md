@@ -50,7 +50,7 @@ Foram testados dois modelos:
 
 | Modelo | Acurácia | Observações |
 |---------|-----------|-------------|
-| **SGDClassifier** | Moderada | Aprendeu padrões principais, mas sensível a classes desbalanceadas |
+| **SGDClassifier** | Moderada | Apreendeu padrões principais, mas sensível a classes desbalanceadas |
 | **RandomForestClassifier** | Alta (em classes majoritárias) | Tende a prever a classe dominante; necessita balanceamento |
 
 - Clusters mostraram correlação com faixa etária e tipo de amostra.
@@ -86,6 +86,7 @@ O pipeline desenvolvido permite:
 📘 **Disciplina:** Programação Avançada com Python (10794)  
 🏫 **Instituição:** Cinel 
 📅 **Ano:** 2025
+
 
 
 
