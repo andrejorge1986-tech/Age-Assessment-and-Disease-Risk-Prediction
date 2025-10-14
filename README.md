@@ -22,12 +22,12 @@ Este repositório contém o pipeline completo para avaliação de idade e predi�
 
 -`streamlit (para dashboard interativo)`
 
-2.Pré-processamento:
+2. Pré-processamento:
 
 -`python preprocessing.py`
 
 
-3.Treinar modelos:
+3. Treinar modelos:
 
 -`python train_models.py`
 
@@ -48,6 +48,7 @@ Visualizações interativas em Plotly.
 
 Autor
 André Jorge
+
 
 
 
