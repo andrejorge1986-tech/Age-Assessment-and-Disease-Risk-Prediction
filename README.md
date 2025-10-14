@@ -14,26 +14,26 @@ Este repositório contém o pipeline completo para avaliação de idade e predi�
 
 1. Instale as dependências:
 
--`pandas, numpy, scikit-learn`
+`pandas, numpy, scikit-learn`
 
--`seaborn, matplotlib, plotly`
+`seaborn, matplotlib, plotly`
 
--`pyarrow, joblib`
+`pyarrow, joblib`
 
--`streamlit (para dashboard interativo)`
+`streamlit (para dashboard interativo)`
 
 2. Pré-processamento:
 
--`python preprocessing.py`
+`python preprocessing.py`
 
 
 3. Treinar modelos:
 
--`python train_models.py`
+`python train_models.py`
 
 4. Visualizar resultados:
 
--`python dashboard.py`
+`python dashboard.py`
 
 
 
@@ -48,6 +48,7 @@ Visualizações interativas em Plotly.
 
 Autor
 André Jorge
+
 
 
 
