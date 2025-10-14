@@ -13,23 +13,23 @@ Este repositório contém o pipeline completo para avaliação de idade e predi�
 ## Como Executar
 
 1. Instale as dependências:
-```bash
-pip install -r requirements.txt
-Pré-processamento:
 
-bash
-Copiar código
-python preprocessing.py
-Treinar modelos:
 
-bash
-Copiar código
-python train_models.py
-Visualizar resultados:
+2.Pré-processamento:
 
-bash
-Copiar código
-python dashboard.py
+-`python preprocessing.py`
+
+
+3.Treinar modelos:
+
+-`python train_models.py`
+
+4. Visualizar resultados:
+
+-`python dashboard.py`
+
+
+
 Resultados
 Clusters de amostras no espaço PCA.
 
@@ -41,4 +41,5 @@ Visualizações interativas em Plotly.
 
 Autor
 André Jorge
+
 
