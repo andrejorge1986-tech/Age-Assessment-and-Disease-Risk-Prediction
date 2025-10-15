@@ -46,8 +46,10 @@ Matrizes de confusão e métricas de classificação.
 
 Visualizações interativas em Plotly.
 
-Autor
+Autor:
+
 André Jorge
+
 
 
 
