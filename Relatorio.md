@@ -1,6 +1,6 @@
 📊 RELATÓRIO TÉCNICO — Avaliação da Idade e Previsão de Risco de Doença
 
-1. Introdução
+1.Introdução
 
   Este projeto visa desenvolver um pipeline automatizado para analisar dados genéticos (CpG sites) e prever risco de doenças com base em características clínicas (idade, género, tipo de amostra e diagnóstico).
   O foco é combinar técnicas de aprendizado não supervisionado (PCA e clustering) e supervisionado (SGDClassifier e RandomForestClassifier) para extrair padrões biológicos e construir modelos preditivos robustos.
@@ -11,7 +11,7 @@
   🔗 Age Assessment and Disease Risk Prediction 
   (https://www.kaggle.com/datasets/marquis03/age-assessment-and-disease-risk-prediction)
 
-2. Metodologia
+2.Metodologia
 
   2.1. Estrutura de Dados
 
@@ -52,7 +52,7 @@
   - Clusters e prevalência de doenças
   - Correlação entre variáveis clínicas
 
-3. Resultados Principais
+3.Resultados Principais
    
   3.1. Resultados do PCA e Clustering
 
@@ -119,7 +119,7 @@ Análise:
   É provável que o modelo tenha memorizado os dados de treino (sem divisão treino/teste adequada ou sem validação cruzada).
   Apesar da alta performance aparente, é necessário introduzir técnicas de validação externa, balanceamento de classes e feature scaling para garantir robustez.
 
-4. Discussão
+4.Discussão
 
  - Incremental PCA demonstrou excelente eficiência computacional, permitindo processar dados de larga escala sem sobrecarregar a RAM.
 
@@ -138,7 +138,7 @@ Análise:
   - Balanceamento de classes via SMOTE ou class_weight='balanced'.
   - Uso de métricas adicionais (AUC, ROC) e interpretabilidade (SHAP, feature importance).
 
-5. Conclusões
+5.Conclusões
 
   O pipeline desenvolvido permite:
   - Processar dados genéticos em larga escala com eficiência incremental;
@@ -153,9 +153,13 @@ Análise:
 
 
 📍 Autor: André Jorge
+
 📘 Disciplina: Programação Avançada com Python (10794)
+
 🏫 Instituição: Cinel
+
 📅 Ano: 2025
+
 
 
 
