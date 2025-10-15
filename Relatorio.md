@@ -11,7 +11,7 @@
   🔗 Age Assessment and Disease Risk Prediction 
   (https://www.kaggle.com/datasets/marquis03/age-assessment-and-disease-risk-prediction)
 
-2.Metodologia
+2-Metodologia
 
   2.1. Estrutura de Dados
 
@@ -52,7 +52,7 @@
   - Clusters e prevalência de doenças
   - Correlação entre variáveis clínicas
 
-3.Resultados Principais
+3- Resultados Principais
    
   3.1. Resultados do PCA e Clustering
 
@@ -119,7 +119,7 @@ Análise:
   É provável que o modelo tenha memorizado os dados de treino (sem divisão treino/teste adequada ou sem validação cruzada).
   Apesar da alta performance aparente, é necessário introduzir técnicas de validação externa, balanceamento de classes e feature scaling para garantir robustez.
 
-4.Discussão
+4- Discussão
 
  - Incremental PCA demonstrou excelente eficiência computacional, permitindo processar dados de larga escala sem sobrecarregar a RAM.
 
@@ -138,7 +138,7 @@ Análise:
   - Balanceamento de classes via SMOTE ou class_weight='balanced'.
   - Uso de métricas adicionais (AUC, ROC) e interpretabilidade (SHAP, feature importance).
 
-5.Conclusões
+5- Conclusões
 
   O pipeline desenvolvido permite:
   - Processar dados genéticos em larga escala com eficiência incremental;
@@ -159,6 +159,7 @@ Análise:
 🏫 Instituição: Cinel
 
 📅 Ano: 2025
+
 
 
 
